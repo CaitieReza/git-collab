@@ -1,0 +1,11 @@
+---
+title: "Git Collaboration (244 Week 2)"
+author: "Caitie Reza"
+date: "1/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
